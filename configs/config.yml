@@ -1,0 +1,6 @@
+port: "8080"
+DataBaseHost: "localhost"
+DataBasePort: "5432"
+DataBaseUsername: "postgres"
+DataBaseDbname: "test_task"
+DataBaseSslmode: "disable"
